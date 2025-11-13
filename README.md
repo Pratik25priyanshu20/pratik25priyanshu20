@@ -17,5 +17,5 @@
 - **PROMID** — multilingual misinformation detector (XLM-RoBERTa). Model: [Hugging Face](#)
 
 ## 📫 Contact
-- Email: pratikpriyanshu1234@gmail.com  
+- Email: pratikpriyanshu12345@gmail.com   | pratikpriyanshu1234@gmail.com
 - LinkedIn: https://www.linkedin.com/in/pratik-priyanshu-1689371b2
