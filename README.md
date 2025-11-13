@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Pratik 👋
 
-<!--
-**Pratik25priyanshu20/pratik25priyanshu20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MSc Data Science @ SRH Hochschule Heidelberg  
+🤖 AI/ML Engineer — LangGraph • Generative AI • MLOps  
+🇩🇪 Located in Mannheim, Germany
 
-Here are some ideas to get you started:
+🔭 Currently building production-grade LangGraph applications for environmental & social good.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech
+**AI/ML:** PyTorch · TensorFlow · Hugging Face · LangChain · LangGraph  
+**Data & MLOps:** Kafka · Airflow · Databricks · Docker · Kubernetes  
+**Web/Apps:** Streamlit · Gradio · FastAPI
+
+## 🚀 Featured work
+- **SWIM** — multi-agent HAB forecasting (LangGraph + LSTM/Transformer). Demo: [Hugging Face Space](#)  
+- **IntelliCrisis** — real-time disaster event matcher (Kafka → Databricks → Datapipeline). Repo: [link](#)  
+- **PROMID** — multilingual misinformation detector (XLM-RoBERTa). Model: [Hugging Face](#)
+
+## 📫 Contact
+- Email: pratikpriyanshu1234@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/pratik-priyanshu-1689371b2
