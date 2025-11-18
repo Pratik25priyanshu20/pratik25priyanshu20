@@ -17,7 +17,7 @@
 ## 🚀 Featured work
 - **SWIM** — multi-agent HAB forecasting (LangGraph + LSTM/Transformer). Demo: [Hugging Face Space](#)  
 - **IntelliCrisis** — real-time disaster event matcher (Kafka → Databricks → Datapipeline). Repo: [link](#)  
-- **PROMID** — multilingual misinformation detector (XLM-RoBERTa). Model: [Hugging Face](#) fix this things are going in different lines
+- **PROMID** — multilingual misinformation detector (XLM-RoBERTa). Model: [Hugging Face](#) 
 ## 📫 Contact
 - Email: pratikpriyanshu12345@gmail.com   | pratikpriyanshu1234@gmail.com
 - LinkedIn: https://www.linkedin.com/in/pratik-priyanshu-1689371b2
