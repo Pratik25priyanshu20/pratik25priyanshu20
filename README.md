@@ -7,9 +7,10 @@
 🔭 Currently building production-grade LangGraph applications for environmental & social good.
 
 ## 🔧 Tech
-**AI/ML:** PyTorch · TensorFlow · Hugging Face · LangChain · LangGraph  
+**AI/ML:** PyTorch · TensorFlow · Hugging Face · LangChain · LangGraph · Transformers ·RAG
 **Data & MLOps:** Kafka · Airflow · Databricks · Docker · Kubernetes  
 **Web/Apps:** Streamlit · Gradio · FastAPI
+**Data Engg:** Apache Kafka · Apache Airflow · Delta Lake · Databricks · ETL Pipelines
 
 ## 🚀 Featured work
 - **SWIM** — multi-agent HAB forecasting (LangGraph + LSTM/Transformer). Demo: [Hugging Face Space](#)  
